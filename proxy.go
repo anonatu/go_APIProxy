@@ -7,6 +7,7 @@ import (
 	"strings"
 	"sync"
 )
+//
 
 //用于存储ip：端口，enable表示当下host是否可用
 type OutHost struct{
